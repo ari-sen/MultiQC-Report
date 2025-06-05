@@ -16,11 +16,12 @@ This repository contains an interactive MultiQC report generated as part of my i
 - 📊 Leveraged **MultiQC** to consolidate and visualize QC metrics across sequencing datasets for improved downstream analysis.
 
 ## Tools & Technologies
-- MultiQC  
-- SRAToolkit  
-- Shell scripting (bash)  
-- Whole-genome sequencing (WGS) data  
-- Linux environment
+
+![Linux](https://img.shields.io/badge/Linux-772953?style=for-the-badge&logo=linux&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MultiQC](https://img.shields.io/badge/MultiQC-3776AB?style=for-the-badge&logo=github&logoColor=white)
+![SRAToolkit](https://img.shields.io/badge/SRAToolkit-FFB400?style=for-the-badge&logo=data&logoColor=black)
+![WGS](https://img.shields.io/badge/WGS-29a329?style=for-the-badge&logo=dna&logoColor=white)
 
 ---
 
